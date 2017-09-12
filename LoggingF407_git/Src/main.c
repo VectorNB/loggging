@@ -128,7 +128,8 @@ int main(void)
   MX_TIM2_Init();
   MX_TIM5_Init();
   MX_TIM1_Init();
-  MX_IWDG_Init();
+	//πÿ±’ø¥√≈π∑
+  //MX_IWDG_Init();
 
   /* USER CODE BEGIN 2 */
 	AT24CXX_Init();
